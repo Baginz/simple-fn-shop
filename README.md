@@ -1,4 +1,3 @@
-# Upload
 
 https://baginz.github.io/simple-fn-shop/
 
